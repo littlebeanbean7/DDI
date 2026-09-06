@@ -9,6 +9,7 @@ The datasets used in this research are available [here](https://drive.google.com
 
 If you use above datasets in your research, please cite the following paper:
 
+
 ```bibtex
 @inproceedings{zhang2026daotask,
   title={Task-Level Inequality in DAO Work Systems: An Empirical Analysis of Participation, Rewards, and Skill Structure},
@@ -18,3 +19,13 @@ If you use above datasets in your research, please cite the following paper:
   organization={Springer},
   note    = {To appear}
 }
+
+
+@inproceedings{zhang2026decentralized,
+  title={Decentralized in Name Only: The Centralization of DAO Labor},
+  author={Zhang, Lingling and Zihayat, Morteza and Bagheri, Ebrahim},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={8321--8324},
+  year={2026}
+}
+```
