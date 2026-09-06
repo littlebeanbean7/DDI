@@ -1,13 +1,13 @@
 # Task-Level Inequality in DAO Work Systems: An Empirical Analysis of Participation, Rewards, and Skill Structure
 
 
-## Dataset
+## Datasets
 
+The datasets used in this research are available [here](https://drive.google.com/drive/folders/1lH_lzFTCyIPTOxHl_XXJ1allOjnjTDOT?usp=sharing).
 
+## How to cite
 
-## Citation
-
-If you use this project in your research, please cite it as follows:
+If you use above datasets in your research, please cite the following paper:
 
 ```bibtex
 @inproceedings{zhang2026daotask,
