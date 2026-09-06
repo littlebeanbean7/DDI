@@ -1,7 +1,15 @@
 # About
-This repo hosts the resources of our research on DAO labor centralization and economic inequality. Please see branches for details.
+This repo hosts the resources of our research on DAO labor centralization and economic inequality. 
 
-# Our papers
+
+# Datasets
+
+The datasets used in the research are available [here](https://drive.google.com/drive/folders/1lH_lzFTCyIPTOxHl_XXJ1allOjnjTDOT?usp=sharing).
+
+
+# Papers
+If you use the datasets or reference our research, please cite these papers:
+
 ```bibtex
 @inproceedings{zhang2026decentralized,
   title={Decentralized in Name Only: The Centralization of DAO Labor},
