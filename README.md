@@ -1,13 +1,17 @@
 # About
 This repo hosts the resources of our research on DAO labor centralization and economic inequality. 
 
+# Papers
+**Decentralized in Name Only: The Centralization of DAO Labor** [link](https://dl.acm.org/doi/10.1145/3774904.3792849).
+
+**Task-Level Inequality in DAO Work Systems: An Empirical Analysis of Participation, Rewards, and Skill Structure** [link](https://drive.google.com/file/d/18tlUuaUcSOG2_Yhm5tdyz5RDTgs41Jk2/view?usp=drive_link).
 
 # Datasets
 
 The datasets used in the research are available [here](https://drive.google.com/drive/folders/1lH_lzFTCyIPTOxHl_XXJ1allOjnjTDOT?usp=sharing).
 
 
-# Papers
+# How to cite
 If you use the datasets or reference our research, please cite these papers:
 
 ```bibtex
